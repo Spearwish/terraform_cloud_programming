@@ -22,8 +22,8 @@ This project demonstrates how to host a simple static webpage using Terraform (i
 ### Clone the repository
 
 ```powershell
-git clone ...
-cd ...
+git clone https://github.com/Spearwish/terraform_cloud_programming.git
+cd terraform_cloud_programming
 ```
 
 ## Usage
