@@ -15,7 +15,7 @@ This project demonstrates how to host a simple static webpage using Terraform (i
 - [AWS account](https://aws.amazon.com/)
 - IAM user or role with admin access and AWS credentials
 - [Terraform installed](https://developer.hashicorp.com/terraform/install)
-- IDE (e.g. VS Code or PyCharm, optionally with a Terraform plugin)
+- IDE (e.g. VS Code or PyCharm, optionally with a "Terraform and HCL" plugin)
 
 ## Installation
 
